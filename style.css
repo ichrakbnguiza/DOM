@@ -1,0 +1,68 @@
+.img1{
+    width: 150px;
+    height: 100px;
+    background-color: transparent;
+}
+.menu-nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #D36E70;
+    font-size: large;
+}
+.btn-login:hover{
+background-color: #1A991C;
+}
+.btn-inscription:hover {
+    background-color: #D0F323;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+p,h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 30px;
+}
+.img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9{
+    width: 200px;
+    height: 200px;
+}
+h2{
+    color: #D36E70;
+}
+#rouge, #vert, #gold,#bleu, #black, #blanc{
+    width: 30px;
+    height: 30px;
+}
+img:hover{
+    border: solid;
+    color: black;
+}
+.remove:hover{
+    background-color: #F72222;
+}
+/*
+.btn1:hover{
+    background-color: #BF53E5;
+}*/
+footer{
+    background-color:#D36E70 ;
+}
+.tel, .fb , .whats, .insta, .adress{
+    width: 20px;
+    height: 20px;
+}
+/*
+.fb{
+    width: 20px;
+    height: 20px;
+}*/
